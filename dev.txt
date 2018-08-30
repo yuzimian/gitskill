@@ -1,2 +1,5 @@
 zhugan
 fenzhi1
+
+
+test git merge --no -ff -m 'test'
